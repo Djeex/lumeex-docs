@@ -4,7 +4,7 @@
 <p/>
 <div align="center">
 <p>Documentation repository of <a href="https://lumeex.djeex.fr">Lumeex</a></p>
-<p>built with <a href="https://www.docus.dev/">Docus</p>
+<p>built with <a href="https://www.docus.dev/">Docus</a></p>
 </div>
 
 ## Setup

@@ -77,3 +77,10 @@ p img {
 .prose-code.highlight-sh code .line:before {
     display:none !important;
 }
+
+.block-hero .content .actions .secondary {
+    padding: var(--space-rem-625) var(--space-5);
+    border-radius: var(--radii-md);
+    border-radius: 8px;
+    border: 1px solid;
+}

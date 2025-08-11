@@ -1,16 +1,11 @@
-<p align="center">
-<img src="https://git.djeex.fr/Djeex/DjeexLab/raw/branch/main/docs/files/img/global/lab.svg" align="center" width="700">
-
-[![docu.djeex.fr](https://img.shields.io/badge/Docu·djeex-00b0f0?style=for-the-badge&logoColor=white&logo=materialformkdocs)](https://docu.djeex.fr/) 
-[![Uptime-Kuma](https://stats.djeex.fr/api/badge/23/status?style=for-the-badge)](https://docu.djeex.fr/) 
-</p>
-
-# 🔧 Docs, More Docs
-
-**Docu·djeex** is first and foremost a personal project aimed at self-hosting as many everyday services as possible — without relying on proprietary platforms (Google, Apple, Netflix, etc.).  
-This documentation site is built using [Nuxt.js](https://nuxt.com/).
-
-This repository contains everything you need to edit pages, apply your changes, and redeploy the site.
+<div align="center">
+  <img src="https://git.djeex.fr/Djeex/lumeex/raw/branch/main/illustration/logo.svg" alt="Lumeex Screenshot" width="400"/>
+</div>
+<p/>
+<div align="center">
+<p>Documentation repository of <a href="https://lumeex.djeex.fr">Lumeex</a></p>
+<p>built with <a href="https://www.docus.dev/">Docus</p>
+</div>
 
 ## Setup
 

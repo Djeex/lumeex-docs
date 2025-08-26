@@ -88,3 +88,7 @@ p img {
 .card {
     margin-bottom: 15px;
 }
+
+.filename {
+    z-index: 1;
+}

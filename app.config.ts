@@ -25,7 +25,7 @@ export default defineAppConfig({
   docus: {
     title: 'Lumeex',
     description: 'A minimalist, lightweight photo gallery static site generator.',
-    url: 'http://lumeex.djeex.fr',
+    url: 'https://lumeex.djeex.fr',
     image: '/img/social.png',
     socials: {
       github:'',
